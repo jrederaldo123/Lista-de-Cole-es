@@ -40,9 +40,6 @@ public class ListaInteiros {
         for (Integer nu:numeros){
             System.out.print(nu + " ");
         }
-
-
         sc.close();
-
     }
 }
